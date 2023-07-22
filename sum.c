@@ -3,7 +3,7 @@
 int main()
 {
     int a = 3, b = 34;
-    printf("Done Thanks");
+    printf("Done");
 
     return (a + b);
 }
